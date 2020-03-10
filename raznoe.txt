@@ -1,0 +1,10 @@
+Äîíåñòè
+Lato Black  âåðõíèå ìåíþ
+Lato Regular òåêñò
+Lato Semibold çàêàç
+BebasNeueBold êíîïêà
+ôîí æåëòûé #ffc61a
+# òåêñò #101010
+ïåðâîå òàêñè #f5f4f2
+âòîðîå #ffc61a
+òðåòüå #ffffff

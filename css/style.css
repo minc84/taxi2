@@ -1,0 +1,22 @@
+ul,li{
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+.menu-bar{
+	color: #ffffff;
+	padding: 20px 0;
+	
+}
+
+.fonts{
+	background-image: url(../static/images/head1.png);
+	background-repeat: no-repeat;
+	background-size:  100% 100% ; /* Масштабируем фон */
+}
+
+.menu__item{
+	font-size: 20px;
+	margin-left: 35px;
+}
