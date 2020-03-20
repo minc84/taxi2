@@ -12,7 +12,7 @@ text-transform: uppercase;
 
 }
 .logo{
-	font-family: 'Lato-Black';
+	font-family: 'Lato-Bold';
 	font-size: 30px;
 	color: #ffffff; 
 	padding: 22px 0px 0px 20px;
@@ -36,8 +36,8 @@ color: #daa505;
 
 }
 .text__title{
-	font-family: 'Lato-Black';
-	font-size: 30px;
+	font-family: 'Lato-Bold';
+	font-size: 40px;
 	text-transform: uppercase;
 }
 .text__body{
