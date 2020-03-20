@@ -9,7 +9,7 @@ ul,li{
 color: #ffffff;
 font-family: 'Lato-Black';
 text-transform: uppercase;
-	
+
 }
 .logo{
 	font-family: 'Lato-Black';
@@ -36,10 +36,12 @@ color: #daa505;
 
 }
 .text__title{
-
+	font-family: 'Lato-Black';
+	font-size: 30px;
+	text-transform: uppercase;
 }
 .text__body{
-
+	font-family: 'Lato-Regular';
 }
 
 

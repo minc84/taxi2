@@ -2,3 +2,8 @@
 	font-family:'Lato-Black';
 	src:url('../fonts/Lato-Black.tff');
 }
+
+@font-face {
+	font-family:'Lato-Regular';
+	src:url('../fonts/Lato-Regular.tff');
+}
